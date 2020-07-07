@@ -1,5 +1,5 @@
 # flask-ueditor-demo
-
+### 此只作为git学习，不用于其他
 这个Demo演示了如何在Flask项目中集成百度UEditor富文本编辑器1.4.3版本。
 
 **主要实现功能：**
